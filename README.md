@@ -1,1 +1,2 @@
 # Online-Book_Store
+This Spring Boot-based Online Book Store application allows users to register, browse, and purchase books. It includes role-based access, enabling admins to manage inventory and track orders. The project uses Spring Boot and MySQL for backend functionality, with RESTful endpoints for book and order management. To get started, clone the repository, configure the database, and run the application using Maven.
