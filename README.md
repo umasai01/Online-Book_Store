@@ -1,6 +1,4 @@
-Perfect 👍 I’ll create a polished **README.md** for your GitHub Online Book Store project. Here’s a ready-to-use version:
 
-```markdown
 # 📚 Online Book Store
 
 A **Spring Boot-based Online Book Store** application that allows users to register, browse, and purchase books. The system provides **role-based access control** with separate features for users and admins.  
